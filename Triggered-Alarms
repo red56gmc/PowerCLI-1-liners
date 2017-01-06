@@ -1,0 +1,1 @@
+Get-View -ViewType VirtualMachine -Filter @{'summary.overallstatus' = 'red';'name'='lhq'} | Select Name, OverallStatus, TriggeredAlarmState
