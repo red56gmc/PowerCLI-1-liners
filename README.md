@@ -1,2 +1,2 @@
-# PowerCLI-1-liners
-Collection of PowerCLI 1 Line commands
+# VM-Alarms
+Locate VMs with Triggered Alarms and list Alarms
